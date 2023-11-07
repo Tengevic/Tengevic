@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tengevic
 - 👀 I’m a full stack deveolper working with nodejs, react, angular javascript
-- 🌱 I’m working at International cancer Insitute
+- 🌱 I’m working at Aga Khan University Hospital
 - 💞️ I’m looking to collaborate on web projects
 - 📫 How to reach me ...
 
